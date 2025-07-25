@@ -176,14 +176,8 @@ Mathongo_AI_Customer_Support/
   <img src="assets\out of context.png" alt="Sample Query Response" width="600"/>
 </p>
 
-7. LangSmith tracing:
-<p align="center">
-  <img src="assets\Multilingual_1.png" alt="Sample Query Response" width="600"/>
-  <img src="assets\Multilingual_2.png" alt="Sample Query Response" width="600"/>
-  <img src="assets\Multilingual_3.png" alt="Sample Query Response" width="600"/>
-</p>
 
-8. Miscellaneous queries
+7. Miscellaneous queries
 <p align="center">
   <img src="assets\Important topic_maths.png" alt="Sample Query Response" width="600"/>
   <img src="assets\Important_topic2.png" alt="Sample Query Response" width="600"/>
@@ -191,25 +185,25 @@ Mathongo_AI_Customer_Support/
   <img src="assets\Cities.png" alt="Sample Query Response" width="600"/>
 </p>
 
-9. Logs
+10. Logs
 <p align="center">
   <img src="assets\logs.png" alt="Sample Query Response" width="600"/>
 
 </p>
 
-10. Query reformatting proof using LangSmith
+11. Query reformatting proof using LangSmith
 <p align="center">
   <img src="assets\query reformatting.png" alt="Sample Query Response" width="600"/>
   <img src="assets\query refomratting_2.png" alt="Sample Query Response" width="600"/>
 </p>
 
-11. Hindi Query reformatting proof using LangSmith
+12. Hindi Query reformatting proof using LangSmith
 <p align="center">
   <img src="assets\hindi_query_refor.png" alt="Sample Query Response" width="600"/>
   <img src="assets\hindi_query_reform_2.png" alt="Sample Query Response" width="600"/>
 </p>
 
-12.Langsmith simulation stats
+13. Langsmith simulation stats
 <p align="center">
   <img src="assets\Langsmith_simulation.png" alt="Sample Query Response" width="400" height="450"/>
 </p>
