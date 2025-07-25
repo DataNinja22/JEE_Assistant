@@ -1,5 +1,5 @@
 """
-Configuration settings for BSK Assistant
+Configuration settings for JEE Assistant
 """
 import os
 from dotenv import load_dotenv
