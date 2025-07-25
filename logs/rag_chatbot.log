@@ -1,0 +1,202 @@
+2025-07-25 10:25:27,309 - __main__ - INFO - Application started.
+2025-07-25 10:25:27,310 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:25:27,321 - services.chat_service - INFO - Saved user message to chat 9590b0fe-664a-46f0-8519-90752b79b5f2
+2025-07-25 10:25:28,246 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:25:29,128 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-25 10:25:29,138 - core.rag_engine - INFO - Processing 5 retrieved documents
+2025-07-25 10:25:29,917 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:25:31,801 - core.rag_engine - INFO - Query processed successfully 
+2025-07-25 10:25:31,801 - core.memory_manager - INFO - Context saved to memory
+2025-07-25 10:25:31,802 - core.rag_engine - INFO - Context saved to memory
+2025-07-25 10:25:31,804 - services.chat_service - INFO - Saved assistant message to chat 9590b0fe-664a-46f0-8519-90752b79b5f2
+2025-07-25 10:25:31,804 - ui.components.chat_interface - INFO - Saved assistant response to session and file.
+2025-07-25 10:25:31,885 - __main__ - INFO - Application started.
+2025-07-25 10:25:31,885 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:25:36,551 - __main__ - INFO - Application started.
+2025-07-25 10:25:36,552 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:25:36,563 - services.chat_service - INFO - Saved user message to chat 9590b0fe-664a-46f0-8519-90752b79b5f2
+2025-07-25 10:25:37,202 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:25:39,351 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-25 10:25:39,358 - core.rag_engine - INFO - Processing 5 retrieved documents
+2025-07-25 10:25:40,024 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:25:42,792 - core.rag_engine - INFO - Query processed successfully 
+2025-07-25 10:25:42,792 - core.memory_manager - INFO - Context saved to memory
+2025-07-25 10:25:42,792 - core.rag_engine - INFO - Context saved to memory
+2025-07-25 10:25:42,793 - services.chat_service - INFO - Saved assistant message to chat 9590b0fe-664a-46f0-8519-90752b79b5f2
+2025-07-25 10:25:42,793 - ui.components.chat_interface - INFO - Saved assistant response to session and file.
+2025-07-25 10:25:42,856 - __main__ - INFO - Application started.
+2025-07-25 10:25:42,857 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:25:52,086 - __main__ - INFO - Application started.
+2025-07-25 10:25:52,086 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:25:52,094 - core.memory_manager - INFO - Memory reset successfully
+2025-07-25 10:25:52,094 - services.chat_service - INFO - New chat session created with ID: 2c8513ae-4631-4748-b63a-2d877a17edd7
+2025-07-25 10:25:52,097 - services.chat_service - INFO - Saved system message to chat 2c8513ae-4631-4748-b63a-2d877a17edd7
+2025-07-25 10:25:52,098 - ui.components.sidebar - INFO - Successfully started a new chat session with ID: 2c8513ae-4631-4748-b63a-2d877a17edd7
+2025-07-25 10:25:52,185 - __main__ - INFO - Application started.
+2025-07-25 10:25:52,186 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:26:01,826 - __main__ - INFO - Application started.
+2025-07-25 10:26:01,827 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:26:01,836 - services.chat_service - INFO - Saved user message to chat 2c8513ae-4631-4748-b63a-2d877a17edd7
+2025-07-25 10:26:02,773 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:26:04,143 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-25 10:26:04,317 - core.rag_engine - INFO - Processing 5 retrieved documents
+2025-07-25 10:26:04,942 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:26:09,820 - core.rag_engine - INFO - Query processed successfully 
+2025-07-25 10:26:09,820 - core.memory_manager - INFO - Context saved to memory
+2025-07-25 10:26:09,820 - core.rag_engine - INFO - Context saved to memory
+2025-07-25 10:26:09,823 - services.chat_service - INFO - Saved assistant message to chat 2c8513ae-4631-4748-b63a-2d877a17edd7
+2025-07-25 10:26:09,823 - ui.components.chat_interface - INFO - Saved assistant response to session and file.
+2025-07-25 10:26:09,897 - __main__ - INFO - Application started.
+2025-07-25 10:26:09,897 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:26:13,139 - __main__ - INFO - Application started.
+2025-07-25 10:26:13,139 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:26:13,148 - services.chat_service - INFO - Saved user message to chat 2c8513ae-4631-4748-b63a-2d877a17edd7
+2025-07-25 10:26:13,964 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:26:14,968 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-25 10:26:14,979 - core.rag_engine - INFO - Processing 5 retrieved documents
+2025-07-25 10:26:15,706 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:26:19,975 - core.rag_engine - INFO - Query processed successfully 
+2025-07-25 10:26:19,975 - core.memory_manager - INFO - Context saved to memory
+2025-07-25 10:26:19,975 - core.rag_engine - INFO - Context saved to memory
+2025-07-25 10:26:19,978 - services.chat_service - INFO - Saved assistant message to chat 2c8513ae-4631-4748-b63a-2d877a17edd7
+2025-07-25 10:26:19,978 - ui.components.chat_interface - INFO - Saved assistant response to session and file.
+2025-07-25 10:26:20,050 - __main__ - INFO - Application started.
+2025-07-25 10:26:20,050 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:27:04,565 - __main__ - INFO - Application started.
+2025-07-25 10:27:04,565 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:27:04,568 - core.memory_manager - INFO - Memory reset successfully
+2025-07-25 10:27:04,569 - services.chat_service - INFO - New chat session created with ID: 5ae3e770-717f-49ec-a1df-4d54abc12417
+2025-07-25 10:27:04,570 - services.chat_service - INFO - Saved system message to chat 5ae3e770-717f-49ec-a1df-4d54abc12417
+2025-07-25 10:27:04,571 - ui.components.sidebar - INFO - Successfully started a new chat session with ID: 5ae3e770-717f-49ec-a1df-4d54abc12417
+2025-07-25 10:27:04,644 - __main__ - INFO - Application started.
+2025-07-25 10:27:04,644 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:27:12,277 - __main__ - INFO - Application started.
+2025-07-25 10:27:12,277 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:27:12,286 - services.chat_service - INFO - Saved user message to chat 5ae3e770-717f-49ec-a1df-4d54abc12417
+2025-07-25 10:27:13,318 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:27:14,363 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-25 10:27:14,369 - core.rag_engine - INFO - Processing 5 retrieved documents
+2025-07-25 10:27:14,996 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:27:19,429 - core.rag_engine - INFO - Query processed successfully 
+2025-07-25 10:27:19,429 - core.memory_manager - INFO - Context saved to memory
+2025-07-25 10:27:19,429 - core.rag_engine - INFO - Context saved to memory
+2025-07-25 10:27:19,431 - services.chat_service - INFO - Saved assistant message to chat 5ae3e770-717f-49ec-a1df-4d54abc12417
+2025-07-25 10:27:19,431 - ui.components.chat_interface - INFO - Saved assistant response to session and file.
+2025-07-25 10:27:19,500 - __main__ - INFO - Application started.
+2025-07-25 10:27:19,500 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:27:22,896 - __main__ - INFO - Application started.
+2025-07-25 10:27:22,896 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:27:22,903 - services.chat_service - INFO - Saved user message to chat 5ae3e770-717f-49ec-a1df-4d54abc12417
+2025-07-25 10:27:23,552 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:27:24,590 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-25 10:27:24,598 - core.rag_engine - INFO - Processing 5 retrieved documents
+2025-07-25 10:27:25,422 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:27:30,680 - core.rag_engine - INFO - Query processed successfully 
+2025-07-25 10:27:30,680 - core.memory_manager - INFO - Context saved to memory
+2025-07-25 10:27:30,680 - core.rag_engine - INFO - Context saved to memory
+2025-07-25 10:27:30,681 - services.chat_service - INFO - Saved assistant message to chat 5ae3e770-717f-49ec-a1df-4d54abc12417
+2025-07-25 10:27:30,682 - ui.components.chat_interface - INFO - Saved assistant response to session and file.
+2025-07-25 10:27:30,736 - __main__ - INFO - Application started.
+2025-07-25 10:27:30,736 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:27:53,311 - __main__ - INFO - Application started.
+2025-07-25 10:27:53,311 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:27:53,313 - core.memory_manager - INFO - Memory reset successfully
+2025-07-25 10:27:53,313 - services.chat_service - INFO - New chat session created with ID: 8cf954ba-0d3b-4e02-941f-0cefb5d2e13c
+2025-07-25 10:27:53,315 - services.chat_service - INFO - Saved system message to chat 8cf954ba-0d3b-4e02-941f-0cefb5d2e13c
+2025-07-25 10:27:53,315 - ui.components.sidebar - INFO - Successfully started a new chat session with ID: 8cf954ba-0d3b-4e02-941f-0cefb5d2e13c
+2025-07-25 10:27:53,394 - __main__ - INFO - Application started.
+2025-07-25 10:27:53,394 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:28:11,666 - __main__ - INFO - Application started.
+2025-07-25 10:28:11,666 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:28:11,673 - services.chat_service - INFO - Saved user message to chat 8cf954ba-0d3b-4e02-941f-0cefb5d2e13c
+2025-07-25 10:28:12,622 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:28:13,667 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-25 10:28:13,681 - core.rag_engine - INFO - Processing 5 retrieved documents
+2025-07-25 10:28:14,691 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:28:19,853 - core.rag_engine - INFO - Query processed successfully 
+2025-07-25 10:28:19,853 - core.memory_manager - INFO - Context saved to memory
+2025-07-25 10:28:19,853 - core.rag_engine - INFO - Context saved to memory
+2025-07-25 10:28:19,856 - services.chat_service - INFO - Saved assistant message to chat 8cf954ba-0d3b-4e02-941f-0cefb5d2e13c
+2025-07-25 10:28:19,856 - ui.components.chat_interface - INFO - Saved assistant response to session and file.
+2025-07-25 10:28:19,911 - __main__ - INFO - Application started.
+2025-07-25 10:28:19,911 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:28:23,194 - __main__ - INFO - Application started.
+2025-07-25 10:28:23,195 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:28:23,202 - services.chat_service - INFO - Saved user message to chat 8cf954ba-0d3b-4e02-941f-0cefb5d2e13c
+2025-07-25 10:28:23,812 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:28:24,804 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-25 10:28:24,812 - core.rag_engine - INFO - Processing 5 retrieved documents
+2025-07-25 10:28:25,557 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:28:30,614 - core.rag_engine - INFO - Query processed successfully 
+2025-07-25 10:28:30,615 - core.memory_manager - INFO - Context saved to memory
+2025-07-25 10:28:30,615 - core.rag_engine - INFO - Context saved to memory
+2025-07-25 10:28:30,616 - services.chat_service - INFO - Saved assistant message to chat 8cf954ba-0d3b-4e02-941f-0cefb5d2e13c
+2025-07-25 10:28:30,617 - ui.components.chat_interface - INFO - Saved assistant response to session and file.
+2025-07-25 10:28:30,698 - __main__ - INFO - Application started.
+2025-07-25 10:28:30,699 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:29:10,334 - __main__ - INFO - Application started.
+2025-07-25 10:29:10,334 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:29:10,338 - core.memory_manager - INFO - Memory reset successfully
+2025-07-25 10:29:10,338 - services.chat_service - INFO - New chat session created with ID: 737e60f2-4ace-4ee7-b967-439132b858e3
+2025-07-25 10:29:10,340 - services.chat_service - INFO - Saved system message to chat 737e60f2-4ace-4ee7-b967-439132b858e3
+2025-07-25 10:29:10,341 - ui.components.sidebar - INFO - Successfully started a new chat session with ID: 737e60f2-4ace-4ee7-b967-439132b858e3
+2025-07-25 10:29:10,421 - __main__ - INFO - Application started.
+2025-07-25 10:29:10,421 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:29:14,071 - __main__ - INFO - Application started.
+2025-07-25 10:29:14,072 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 10:29:14,133 - __main__ - INFO - Application started.
+2025-07-25 10:29:14,133 - __main__ - INFO - Rendering Vector Operations page.
+2025-07-25 10:29:39,509 - __main__ - INFO - Application started.
+2025-07-25 10:29:39,510 - __main__ - INFO - Rendering Vector Operations page.
+2025-07-25 10:29:39,579 - __main__ - INFO - Application started.
+2025-07-25 10:29:39,579 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 11:01:51,449 - __main__ - INFO - Application started.
+2025-07-25 11:01:51,465 - __main__ - INFO - Initialized session state with default page: chat
+2025-07-25 11:01:51,465 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 11:01:51,466 - ui.pages.chatbot - INFO - New app session started. Initializing a fresh chat state.
+2025-07-25 11:01:51,466 - core.memory_manager - INFO - Memory reset successfully
+2025-07-25 11:01:51,466 - services.chat_service - INFO - New chat session created with ID: 5d42dbfc-0bf0-4748-ab47-c3337489182f
+2025-07-25 11:01:51,473 - services.chat_service - INFO - Saved system message to chat 5d42dbfc-0bf0-4748-ab47-c3337489182f
+2025-07-25 11:01:51,475 - ui.pages.chatbot - INFO - Initialized fresh chat session with ID: 5d42dbfc-0bf0-4748-ab47-c3337489182f
+2025-07-25 11:02:00,432 - __main__ - INFO - Application started.
+2025-07-25 11:02:00,433 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 11:02:00,477 - services.chat_service - INFO - Saved user message to chat 5d42dbfc-0bf0-4748-ab47-c3337489182f
+2025-07-25 11:02:01,824 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 11:02:03,463 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-25 11:02:03,916 - core.rag_engine - INFO - Processing 5 retrieved documents
+2025-07-25 11:02:04,791 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 11:02:05,475 - core.rag_engine - INFO - Query processed successfully 
+2025-07-25 11:02:05,476 - core.memory_manager - INFO - Context saved to memory
+2025-07-25 11:02:05,476 - core.rag_engine - INFO - Context saved to memory
+2025-07-25 11:02:05,505 - services.chat_service - INFO - Saved assistant message to chat 5d42dbfc-0bf0-4748-ab47-c3337489182f
+2025-07-25 11:02:05,505 - ui.components.chat_interface - INFO - Saved assistant response to session and file.
+2025-07-25 11:02:05,606 - __main__ - INFO - Application started.
+2025-07-25 11:02:05,607 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 11:02:06,115 - __main__ - INFO - Application started.
+2025-07-25 11:02:06,115 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 11:02:06,167 - services.chat_service - INFO - Saved user message to chat 5d42dbfc-0bf0-4748-ab47-c3337489182f
+2025-07-25 11:02:06,836 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 11:02:07,700 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-25 11:02:07,723 - core.rag_engine - INFO - Processing 5 retrieved documents
+2025-07-25 11:02:08,991 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 11:02:09,894 - core.rag_engine - INFO - Query processed successfully 
+2025-07-25 11:02:09,894 - core.memory_manager - INFO - Context saved to memory
+2025-07-25 11:02:09,894 - core.rag_engine - INFO - Context saved to memory
+2025-07-25 11:02:09,921 - services.chat_service - INFO - Saved assistant message to chat 5d42dbfc-0bf0-4748-ab47-c3337489182f
+2025-07-25 11:02:09,922 - ui.components.chat_interface - INFO - Saved assistant response to session and file.
+2025-07-25 11:02:10,032 - __main__ - INFO - Application started.
+2025-07-25 11:02:10,032 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 11:02:19,456 - __main__ - INFO - Application started.
+2025-07-25 11:02:19,456 - __main__ - INFO - Rendering Chatbot page.
+2025-07-25 11:02:19,522 - services.chat_service - INFO - Saved user message to chat 5d42dbfc-0bf0-4748-ab47-c3337489182f
+2025-07-25 11:02:20,460 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 11:02:21,483 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-25 11:02:21,508 - core.rag_engine - INFO - Processing 5 retrieved documents
+2025-07-25 11:02:22,506 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 11:02:23,318 - core.rag_engine - INFO - Query processed successfully 
+2025-07-25 11:02:23,318 - core.memory_manager - INFO - Context saved to memory
+2025-07-25 11:02:23,319 - core.rag_engine - INFO - Context saved to memory
+2025-07-25 11:02:23,344 - services.chat_service - INFO - Saved assistant message to chat 5d42dbfc-0bf0-4748-ab47-c3337489182f
+2025-07-25 11:02:23,344 - ui.components.chat_interface - INFO - Saved assistant response to session and file.
+2025-07-25 11:02:23,448 - __main__ - INFO - Application started.
+2025-07-25 11:02:23,448 - __main__ - INFO - Rendering Chatbot page.

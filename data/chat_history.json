@@ -1,0 +1,167 @@
+{
+    "9590b0fe-664a-46f0-8519-90752b79b5f2": {
+        "created_at": "2025-07-25T10:25:27.320011",
+        "messages": [
+            {
+                "role": "user",
+                "content": "what is the syllabus for complex numbers",
+                "timestamp": "2025-07-25T10:25:27.320011"
+            },
+            {
+                "role": "assistant",
+                "content": "The syllabus for Complex Numbers in JEE (Main) includes the following topics:\n\n1. Complex numbers as ordered pairs of reals.\n2. Representation of complex numbers in the form \\( a + ib \\) and their representation in a plane (Argand diagram).\n3. Algebra of complex numbers, including modulus and argument (or amplitude) of a complex number.\n4. Quadratic equations in real and complex number systems and their solutions.\n5. Relations between roots and coefficients, nature of roots, and the formation of quadratic equations with given roots.\n\nThese topics are essential for understanding complex numbers in the context of JEE preparation.\n\nSource: Maths syllabus 2024.pdf",
+                "timestamp": "2025-07-25T10:25:31.804616"
+            },
+            {
+                "role": "user",
+                "content": "eligibility for jee main",
+                "timestamp": "2025-07-25T10:25:36.562744"
+            },
+            {
+                "role": "assistant",
+                "content": "The eligibility criteria for JEE (Main) are as follows:\n\n1. **Age Criteria**: There is no age limit for candidates. Candidates who have passed the class 12 or equivalent examination in 2022, 2023, or are appearing in 2024 can appear for JEE (Main) - 2024, regardless of their age. However, candidates must fulfill the age criteria set by the institutes they wish to apply to.\n\n2. **Qualifying Examinations**: Candidates must have completed one of the following:\n   - The final examination of the 10+2 system conducted by any recognized Central/State Board.\n   - Intermediate or two-year Pre-University examination conducted by a recognized Board/University.\n   - Final examination of the two-year course of the Joint Services Wing of the National Defense Academy.\n   - Senior Secondary School Examination conducted by the National Institute of Open Schooling with a minimum of five subjects.\n   - Any Public School/Board/University examination in India or any foreign country recognized as equivalent to the 10+2 system.\n\nThese criteria ensure that candidates are adequately prepared for the examination.\n\nSource: eligibility and qualifications.pdf",
+                "timestamp": "2025-07-25T10:25:42.793648"
+            }
+        ]
+    },
+    "2c8513ae-4631-4748-b63a-2d877a17edd7": {
+        "created_at": "2025-07-25T10:25:52.096937",
+        "messages": [
+            {
+                "role": "system",
+                "content": "Chat session started.",
+                "timestamp": "2025-07-25T10:25:52.096937"
+            },
+            {
+                "role": "user",
+                "content": "jee main 2025 previous year papers",
+                "timestamp": "2025-07-25T10:26:01.834314"
+            },
+            {
+                "role": "assistant",
+                "content": "You can download the JEE Main previous year question papers from 2025 to 2002 in a year-wise and shift-wise format. Here are some links for the JEE Main 2025 papers:\n\n1. [JEE Main 2025 (22 Jan Shift 1) Previous Year Paper](https://links.mathongo.com/hFUS)\n2. [JEE Main 2025 (22 Jan Shift 2) Previous Year Paper](https://links.mathongo.com/rFDq)\n3. [JEE Main 2025 (23 Jan Shift 1) Previous Year Paper](https://links.mathongo.com/XFHh)\n4. [JEE Main 2025 (23 Jan Shift 2) Previous Year Paper](https://links.mathongo.com/AFPX)\n5. [JEE Main 2025 (24 Jan Shift 1) Previous Year Paper](https://links.mathongo.com/8FGH)\n6. [JEE Main 2025 (24 Jan Shift 2) Previous Year Paper](https://links.mathongo.com/2FFa)\n7. [JEE Main 2025 (28 Jan Shift 1) Previous Year Paper](https://links.mathongo.com/FFOm)\n8. [JEE Main 2025 (28 Jan Shift 2) Previous Year Paper](https://links.mathongo.com/gFIw)\n9. [JEE Main 2025 (29 Jan Shift 1) Previous Year Paper](https://links.mathongo.com/CFSe)\n10. [JEE Main 2025 (29 Jan Shift 2) Previous Year Paper](https://links.mathongo.com/WFAQ)\n\nYou can also practice these papers as mock tests. For more details, visit the relevant sections on the MathonGo website. \n\nSource: Jee_main_Previous_years.pdf",
+                "timestamp": "2025-07-25T10:26:09.821924"
+            },
+            {
+                "role": "user",
+                "content": "2024",
+                "timestamp": "2025-07-25T10:26:13.147416"
+            },
+            {
+                "role": "assistant",
+                "content": "You can download the JEE Main 2024 previous year question papers using the following links:\n\n1. [JEE Main 2024 (04 Apr Shift 1) Previous Year Paper](https://links.mathongo.com/1eFi)\n2. [JEE Main 2024 (04 Apr Shift 2) Previous Year Paper](https://links.mathongo.com/ke3T)\n3. [JEE Main 2024 (05 Apr Shift 1) Previous Year Paper](https://links.mathongo.com/Qe4c)\n4. [JEE Main 2024 (05 Apr Shift 2) Previous Year Paper](https://links.mathongo.com/ve7K)\n5. [JEE Main 2024 (06 Apr Shift 1) Previous Year Paper](https://links.mathongo.com/be1q)\n6. [JEE Main 2024 (06 Apr Shift 2) Previous Year Paper](https://links.mathongo.com/We8M)\n7. [JEE Main 2024 (08 Apr Shift 1) Previous Year Paper](https://links.mathongo.com/Te2Q)\n8. [JEE Main 2024 (08 Apr Shift 2) Previous Year Paper](https://links.mathongo.com/UeMQ)\n9. [JEE Main 2024 (09 Apr Shift 1) Previous Year Paper](https://links.mathongo.com/QeNi)\n10. [JEE Main 2024 (09 Apr Shift 2) Previous Year Paper](https://links.mathongo.com/Ee9x)\n\nThese papers will help you in your preparation for the upcoming exam.\n\nSource: Jee_main_Previous_years.pdf",
+                "timestamp": "2025-07-25T10:26:19.977250"
+            }
+        ]
+    },
+    "5ae3e770-717f-49ec-a1df-4d54abc12417": {
+        "created_at": "2025-07-25T10:27:04.570508",
+        "messages": [
+            {
+                "role": "system",
+                "content": "Chat session started.",
+                "timestamp": "2025-07-25T10:27:04.570508"
+            },
+            {
+                "role": "user",
+                "content": "importnt topics in maths with weighteg",
+                "timestamp": "2025-07-25T10:27:12.285217"
+            },
+            {
+                "role": "assistant",
+                "content": "Here are the important topics in Mathematics for JEE Main along with their weighted importance based on the number of questions and total marks:\n\n1. **Coordinate Geometry** - 5 Questions, 20 Marks\n2. **Limits, Continuity and Differentiability** - 3 Questions, 12 Marks\n3. **Integral Calculus** - 3 Questions, 12 Marks\n4. **Complex Numbers and Quadratic Equation** - 2 Questions, 8 Marks\n5. **Matrices and Determinants** - 2 Questions, 8 Marks\n6. **Statistics and Probability** - 2 Questions, 8 Marks\n7. **Three Dimensional Geometry** - 2 Questions, 8 Marks\n8. **Vector Algebra** - 2 Questions, 8 Marks\n9. **Sets, Relation and Function** - 1 Question, 4 Marks\n10. **Permutations and Combinations** - 1 Question, 4 Marks\n11. **Binomial Theorem and Its Application** - 1 Question, 4 Marks\n12. **Sequences and Series** - 1 Question, 4 Marks\n13. **Trigonometry** - 1 Question, 4 Marks\n14. **Mathematical Reasoning** - 1 Question, 4 Marks\n15. **Differential Equation** - 1 Question, 4 Marks\n16. **Statics and Dynamics** - 1 Question, 4 Marks\n17. **Differential Calculus** - 1 Question, 4 Marks\n\nFocusing on the chapters with higher weightage can help maximize your score with efficient preparation.\n\nSource: JEE Main Mathematics Weightage.pdf",
+                "timestamp": "2025-07-25T10:27:19.430752"
+            },
+            {
+                "role": "user",
+                "content": "for physics?",
+                "timestamp": "2025-07-25T10:27:22.902109"
+            },
+            {
+                "role": "assistant",
+                "content": "Here are the important topics in Physics for JEE Main along with their weighted importance based on the number of questions and total marks:\n\n1. **Modern Physics** - 5 Questions, 20 Marks\n   - Key Topics: Photoelectric Effect, Bohr's Model, Nuclear Physics, Semiconductors\n2. **Heat and Thermodynamics** - 3 Questions, 12 Marks\n   - Key Topics: Laws of Thermodynamics, Heat Engines, Kinetic Theory\n3. **Optics** - 3 Questions, 12 Marks\n   - Key Topics: Ray Optics, Wave Optics, Interference, Diffraction\n4. **Current Electricity** - 3 Questions, 12 Marks\n   - Key Topics: Ohm's Law, Circuits, Electrical Instruments\n5. **Electrostatics** - 3 Questions, 12 Marks\n   - Key Topics: Coulomb's Law, Electric Field, Capacitors\n6. **Magnetics** - 2 Questions, 8 Marks\n   - Key Topics: Magnetic Fields, Electromagnetic Force\n7. **Unit, Dimension and Vector** - 1 Question, 4 Marks\n8. **Kinematics** - 1 Question, 4 Marks\n9. **Laws of Motion** - 1 Question, 4 Marks\n10. **Work, Power and Energy** - 1 Question, 4 Marks\n11. **Centre Of Mass, Impulse and Momentum** - 1 Question, 4 Marks\n12. **Rotation** - 1 Question, 4 Marks\n13. **Gravitation** - 1 Question, 4 Marks\n14. **Simple Harmonic Motion** - 1 Question, 4 Marks\n15. **Solids and Fluids** - 1 Question, 4 Marks\n16. **Waves** - 1 Question, 4 Marks\n17. **Electromagnetic Induction** - 1 Question, 4 Marks\n\nFocusing on the chapters with higher weightage can significantly enhance your preparation strategy.\n\nSource: JEE Main Physics Weightage.pdf",
+                "timestamp": "2025-07-25T10:27:30.681692"
+            }
+        ]
+    },
+    "8cf954ba-0d3b-4e02-941f-0cefb5d2e13c": {
+        "created_at": "2025-07-25T10:27:53.314146",
+        "messages": [
+            {
+                "role": "system",
+                "content": "Chat session started.",
+                "timestamp": "2025-07-25T10:27:53.314146"
+            },
+            {
+                "role": "user",
+                "content": "kinematics ka syllabus kya hai?",
+                "timestamp": "2025-07-25T10:28:11.672077"
+            },
+            {
+                "role": "assistant",
+                "content": "काइनेमैटिक्स (Kinematics) के लिए पाठ्यक्रम निम्नलिखित है:\n\n1. संदर्भ का ढांचा (Frame of Reference)\n2. सीधी रेखा में गति (Motion in a Straight Line)\n   - स्थिति-समय ग्राफ (Position-Time Graph)\n   - गति और वेग (Speed and Velocity)\n   - समान और असमान गति (Uniform and Non-Uniform Motion)\n   - औसत गति और तात्कालिक वेग (Average Speed and Instantaneous Velocity)\n   - समान रूप से त्वरित गति (Uniformly Accelerated Motion)\n   - वेग-समय और स्थिति-समय ग्राफ (Velocity-Time and Position-Time Graph)\n   - समान रूप से त्वरित गति के लिए संबंध (Relations for Uniformly Accelerated Motion)\n\n3. स्केलर और वेक्टर (Scalars and Vectors)\n   - वेक्टर का जोड़ और घटाव (Vector Addition and Subtraction)\n   - स्केलर और वेक्टर गुणन (Scalar and Vector Products)\n   - यूनिट वेक्टर (Unit Vector)\n   - वेक्टर का विभाजन (Resolution of a Vector)\n\n4. सापेक्ष गति (Relative Velocity)\n5. समतल में गति (Motion in a Plane)\n6. प्रक्षिप्त गति (Projectile Motion)\n7. समान वृत्ताकार गति (Uniform Circular Motion)\n\nयह पाठ्यक्रम JEE की तैयारी के लिए महत्वपूर्ण है।\n\nSources:\n- Physics syllabus 2024.pdf\n- Physics syllabus 2024.pdf",
+                "timestamp": "2025-07-25T10:28:19.854921"
+            },
+            {
+                "role": "user",
+                "content": "integral calculus ka ?",
+                "timestamp": "2025-07-25T10:28:23.201555"
+            },
+            {
+                "role": "assistant",
+                "content": "इंटीग्रल कलकुलस (Integral Calculus) का पाठ्यक्रम निम्नलिखित है:\n\n1. इंटीग्रल को एंटी-डेरिवेटिव के रूप में समझना (Integral as an Anti-Derivative)\n2. मूलभूत इंटीग्रल, जिसमें बीजगणितीय, त्रिकोणमितीय, घातीय, और लघुगणकीय फलन शामिल हैं (Fundamental Integral Involving Algebraic, Trigonometric, Exponential, and Logarithmic Functions)\n3. इंटीग्रेशन के तरीके:\n   - प्रतिस्थापन द्वारा (Integration by Substitution)\n   - भागों द्वारा (Integration by Parts)\n   - आंशिक फलनों द्वारा (Integration by Partial Functions)\n4. त्रिकोणमितीय पहचान का उपयोग करके इंटीग्रेशन (Integration Using Trigonometric Identities)\n5. सरल इंटीग्रल का मूल्यांकन, जैसे:\n   - ∫ x^n dx\n   - ∫ √(a^2 - x^2) dx\n   - ∫ (a + bx)^n dx\n6. कलन के मूलभूत प्रमेय (Fundamental Theorem of Calculus)\n7. निश्चित इंटीग्रल के गुण (Properties of Definite Integrals)\n8. निश्चित इंटीग्रल का मूल्यांकन (Evaluation of Definite Integrals)\n9. सरल वक्रों द्वारा सीमांकित क्षेत्रों का क्षेत्रफल निर्धारित करना (Determining Areas of the Regions Bounded by Simple Curves in Standard Form)\n\nयह पाठ्यक्रम JEE की तैयारी के लिए महत्वपूर्ण है।\n\nSources:\n- Maths syllabus 2024.pdf\n- Maths syllabus 2024.pdf",
+                "timestamp": "2025-07-25T10:28:30.616599"
+            }
+        ]
+    },
+    "737e60f2-4ace-4ee7-b967-439132b858e3": {
+        "created_at": "2025-07-25T10:29:10.339732",
+        "messages": [
+            {
+                "role": "system",
+                "content": "Chat session started.",
+                "timestamp": "2025-07-25T10:29:10.339732"
+            }
+        ]
+    },
+    "5d42dbfc-0bf0-4748-ab47-c3337489182f": {
+        "created_at": "2025-07-25T11:01:51.467506",
+        "messages": [
+            {
+                "role": "system",
+                "content": "Chat session started.",
+                "timestamp": "2025-07-25T11:01:51.467506"
+            },
+            {
+                "role": "user",
+                "content": "who is virat kohli?",
+                "timestamp": "2025-07-25T11:02:00.474849"
+            },
+            {
+                "role": "assistant",
+                "content": "I'm here to assist you with queries related to the JEE (Joint Entrance Examination) only. If you have any questions about the JEE syllabus, exam dates, eligibility, or preparation strategies, feel free to ask!",
+                "timestamp": "2025-07-25T11:02:05.502170"
+            },
+            {
+                "role": "user",
+                "content": "what is a neet exam",
+                "timestamp": "2025-07-25T11:02:06.164855"
+            },
+            {
+                "role": "assistant",
+                "content": "I'm here to assist with queries specifically related to the JEE (Joint Entrance Examination). If you have any questions about JEE, such as its syllabus, exam pattern, or preparation strategies, please let me know!",
+                "timestamp": "2025-07-25T11:02:09.919984"
+            },
+            {
+                "role": "user",
+                "content": "which is the best edtech platform?",
+                "timestamp": "2025-07-25T11:02:19.519631"
+            },
+            {
+                "role": "assistant",
+                "content": "I'm focused on providing information related to the JEE (Joint Entrance Examination) only. If you have any questions about JEE, such as exam dates, syllabus, or preparation strategies, feel free to ask!",
+                "timestamp": "2025-07-25T11:02:23.341551"
+            }
+        ]
+    }
+}
